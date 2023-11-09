@@ -25,4 +25,4 @@ def menuBilan():
         menup()
         choix = int(input("Entrer votre choix : "))
     
-menuBilan()
+#menuBilan()
